@@ -29,6 +29,14 @@ The dataset used in this project is the Sample Superstore dataset, a publicly av
 # Tableau Dashboard
 The Tableau dashboard was created to visualize regional performance, category profitability, average discount levels, and profit margin comparisons. The dashboard includes visualizations comparing sales and profit across regions, category performance, and the relationship between discounts and profitability
 https://public.tableau.com/app/profile/avi.schi/vizzes
+## Key Findings 
+- The West region achieved the highest sales and profit.
+- The Central region had the lowest profit margin despite relatively high sales.
+- High discount levels in the Central region were associated with lower profitability.
+- Furniture subcategories such as Tables, Bookcases, and Furnishings contributed most to the losses
+
+
+
 
 
 
