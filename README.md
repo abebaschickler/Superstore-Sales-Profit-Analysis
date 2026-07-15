@@ -32,6 +32,9 @@ The Tableau dashboard was created to visualize regional performance, category pr
 
 ![Superstore Dashboard](Superstore_Dashboard.png)
 
+## Detailed Report
+The complete analysis report, including data preparation, SQL analysis, findings, and recommendations, is available here:
+[Superstore Analysis Report](Superstore_Analysis_Report.pdf)
 
 ## Analysis Summary
 The West region was the strongest-performing region, generating the highest sales, profit, and profit margin. The Central region had the lowest profitability, mainly due to high discounts in the Furniture category, particularly Tables, , Furnishings, and Bookcases.
