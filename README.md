@@ -34,7 +34,7 @@ The Tableau dashboard was created to visualize regional performance, category pr
 
 
 ## Analysis Summary
-The analysis was performed using SQL to evaluate regional, category, and subcategory profitability. The results were visualized using Tableau to identify differences in sales performance and profitability across regions.
+The West region was the strongest-performing region, generating the highest sales, profit, and profit margin. The Central region had the lowest profitability, mainly due to high discounts in the Furniture category, particularly Tables, , Furnishings, and Bookcases.
 ## Key Findings 
 - The West region achieved the highest sales and profit.
 - The Central region had the lowest profit margin despite relatively high sales.
