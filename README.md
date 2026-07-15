@@ -34,6 +34,9 @@ https://public.tableau.com/app/profile/avi.schi/vizzes
 - The Central region had the lowest profit margin despite relatively high sales.
 - High discount levels in the Central region were associated with lower profitability.
 - Furniture subcategories such as Tables, Bookcases, and Furnishings contributed most to the losses
+## Repository Contents
+- **README.md** – Project overview, methodology, and key findings.
+- **SQL_Queries.sql** – SQL queries used for data analysis.
 
 
 
