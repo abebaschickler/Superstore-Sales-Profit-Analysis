@@ -32,6 +32,7 @@ The Tableau dashboard was created to visualize regional performance, category pr
 
 ![Superstore Dashboard](Superstore_Dashboard.png)
 
+
 ## Analysis Summary
 The analysis was performed using SQL to evaluate regional, category, and subcategory profitability. The results were visualized using Tableau to identify differences in sales performance and profitability across regions.
 ## Key Findings 
