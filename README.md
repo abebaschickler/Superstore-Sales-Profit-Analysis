@@ -31,7 +31,7 @@ The Tableau dashboard was created to visualize regional performance, category pr
 [View the interactive Tableau dashboard] https://public.tableau.com/app/profile/avi.schi/vizzes
 
 ![Superstore Dashboard]
- (Superstore_Dashboard.png)
+(Superstore_Dashboard.png)
 
 ## Key Findings 
 - The West region achieved the highest sales and profit.
